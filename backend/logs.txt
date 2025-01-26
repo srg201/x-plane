@@ -1,0 +1,31 @@
+
+> backend@0.1.0 develop
+> strapi develop
+
+
+[INFO] Including the following ENV variables as part of the JS bundle:
+    - ADMIN_PATH
+    - STRAPI_ADMIN_BACKEND_URL
+    - STRAPI_TELEMETRY_DISABLED
+
+ Project information
+
+┌────────────────────┬──────────────────────────────────────────────────┐
+│ Time               │ Wed Jan 15 2025 10:20:44 GMT+0000 (Coordinated … │
+│ Launched in        │ 2270 ms                                          │
+│ Environment        │ development                                      │
+│ Process PID        │ 31                                               │
+│ Version            │ 5.7.0 (node v18.20.5)                            │
+│ Edition            │ Community                                        │
+│ Database           │ postgres                                         │
+│ Database name      │ strapi                                           │
+│ Database schema    │ public                                           │
+└────────────────────┴──────────────────────────────────────────────────┘
+
+ Actions available
+
+Welcome back!
+To access the server ⚡️, go to:
+http://localhost:1337
+
+[2025-01-15 10:20:44.425] [32minfo[39m: Strapi started successfully

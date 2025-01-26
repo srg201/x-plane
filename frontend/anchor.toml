@@ -1,0 +1,10 @@
+[lcl-host]
+realm-apid = 'localhost'
+
+[org]
+apid = 'srg201'
+
+[service]
+apid = 'x-plane'
+category = 'javascript'
+cert-style = 'acme'

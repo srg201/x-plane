@@ -1,0 +1,31 @@
+{
+  "kind": "singleType",
+  "collectionName": "main_sections",
+  "info": {
+    "singularName": "main-section",
+    "pluralName": "main-sections",
+    "displayName": "Main section"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "title": {
+      "type": "richtext"
+    },
+    "subtitle": {
+      "type": "richtext"
+    },
+    "backgroundImage": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    }
+  }
+}
